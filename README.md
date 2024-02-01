@@ -27,7 +27,7 @@ Install the required PyGame module.
 pip install pygame
 
 Launch the cosmic adventure by running:
-python cosmic_crusade.py
+python CosmicCrusade.py
 
 🎮 Gameplay:
 
