@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-v3.11-3776AB?style=for-the-badge&logo=Python) ![Python](https://img.shields.io/badge/Pygame-v3.11-00CC00?style=for-the-badge&logo=Pygame)
+![Python](https://img.shields.io/badge/Python-v3.11-3776AB?style=for-the-badge&logo=Python) ![Python](https://img.shields.io/badge/Pygame-v2.5.2-00CC00?style=for-the-badge&logo=Pygame)
 
 **Cosmic Crusade: Embark on an Interstellar Adventure!**
 
