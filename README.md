@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-v3.11-3776AB?style=for-the-badge&logo=Python) ![Python](https://img.shields.io/badge/Pygame-v3.11-00CC00?style=for-the-badge&logo=Pygame)
+
 🚀 Cosmic Crusade: Embark on an Interstellar Adventure! 🌌
 
 Unleash your inner space explorer with "Cosmic Crusade," a captivating space adventure game powered by Python and PyGame.
