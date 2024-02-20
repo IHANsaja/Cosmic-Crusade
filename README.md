@@ -12,13 +12,19 @@ Python 3.11 required for optimal experience.
 ️ Installation:
 
 • Clone or download the repository.
+
 • Navigate to the project directory: cd path/to/cosmic_crusade
+
 • Optional but recommended: Create a virtual environment: python -m venv venv
+
 • Activate the virtual environment:
 Windows: venv\Scripts\activate
 macOS/Linux: source venv/bin/activate
+
 • Install PyGame: pip install pygame
+
 • Launch the game: python CosmicCrusade.py
+
 
 **Gameplay:**
 
